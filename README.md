@@ -75,13 +75,13 @@ This project proposes an **AI-powered Pothole Detection System** using the **YOL
 
 ---
 
-### 📸 Screenshots
-- GUI input page :
+### 📸 Screenshots :
+- GUI input page 
 <br><br>
 ![gui input page](https://github.com/user-attachments/assets/6c648470-d432-4728-84a7-ccabda907713)
 <br><br>
 
-- Detection output with bounding boxes :
+- Detection output with bounding boxes 
  <br><br>
  <img width="1598" height="809" alt="screenshot_20" src="https://github.com/user-attachments/assets/4b7bbd77-ce14-44a6-814a-dc01b323da7d" />
  <br><br>
@@ -94,7 +94,7 @@ This project proposes an **AI-powered Pothole Detection System** using the **YOL
  <img width="1601" height="819" alt="screenshot_33" src="https://github.com/user-attachments/assets/e8dea7e7-25ea-47fc-a211-85b3f8cdf543" />
 <br><br>
 
-- Real-time video detection :
+- Real-time video detection 
   <br><br> 
 https://github.com/user-attachments/assets/a29b6b1b-3959-4fd2-8c65-e73444c81627
  <br><br> 
